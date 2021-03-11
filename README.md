@@ -1,5 +1,5 @@
 # BPNN
-An assignment problem to recognize 6 handwritten characters from an image using a simple back propagation neural network.
+An assignment problem to recognize 6 handwritten characters from an image using a back propagation neural network.
 
 1. The Training_Model.py is run first in order to train the Back Propogation Neural Network using the EMNIST dataset.
 2. After running the program, the configuration of the models are stored as 2 '.h5' files. One for letters and one for digits.
